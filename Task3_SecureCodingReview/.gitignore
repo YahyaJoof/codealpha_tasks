@@ -1,0 +1,4 @@
+users.db
+users_secure.db
+__pycache__/
+*.pyc
